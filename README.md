@@ -16,7 +16,7 @@
 
 ```python
 eu = {
-    "foco"       : "Ciência de Dados",
+    "foco"       : "Análise de Dados",
     "ferramentas": ["Python", "SQL", "Azure"],
     "missão"     : "Transformar dados em decisões",
     "aprendendo" : "Machine Learning & MLOps",
