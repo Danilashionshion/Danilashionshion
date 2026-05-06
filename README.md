@@ -10,7 +10,9 @@
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+
+
 
 ### 🔴 Sobre mim
 
@@ -23,6 +25,9 @@ eu = {
     "localização": "Brasil 🇧🇷",
 }
 ```
+
+
+
 
 - 🔍 Apaixonado por encontrar **padrões nos dados**  
 - 📊 Explorando **visualizações** e **storytelling com dados**  
