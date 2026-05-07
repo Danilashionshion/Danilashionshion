@@ -29,10 +29,10 @@ eu = {
 
 
 
-- 🔍 Apaixonado por encontrar **padrões nos dados**  
-- 📊 Explorando **visualizações** e **storytelling com dados**  
-- ☁️ Trabalhando com **Azure** para soluções escaláveis  
-- 🧠 Sempre aprendendo — dados nunca param, eu também não  
+-  Apaixonado por encontrar **padrões nos dados**  
+-  Explorando **visualizações** e **storytelling com dados**  
+-  Trabalhando com **Azure** para soluções escaláveis  
+-  Sempre aprendendo — dados nunca param, eu também não  
 
 ---
 
